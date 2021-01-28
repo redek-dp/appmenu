@@ -1,0 +1,8 @@
+{
+  "name": "appmenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0059ec07"
+}
