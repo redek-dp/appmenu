@@ -1,5 +1,6 @@
 import {
   IonMenu,
+  IonContent,
   IonList,
   IonItem,
   IonLabel,
@@ -8,7 +9,7 @@ import {
 import React from 'react';
 import { useLocation } from 'react-router-dom';
 //import { archiveOutline, archiveSharp, bookmarkOutline, heartOutline, heartSharp, mailOutline, mailSharp, paperPlaneOutline, paperPlaneSharp, trashOutline, trashSharp, warningOutline, warningSharp } from 'ionicons/icons';
-import './Menu.css';
+//import './Menu.css';
 
 /*interface AppPage {
   url: string;
